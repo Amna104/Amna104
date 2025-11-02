@@ -4,7 +4,7 @@
 
 <!-- ✨ Animated Roles Section -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=MERN+%26+Python+Developer;AI+%26+Cloud+Enthusiast;Cybersecurity+Explorer;Full+Stack+Engineer;Tech+Innovator+From+Pakistan+🌍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=MERN+%26+Python+Developer;Cybersecurity+Explorer;Full+Stack+Engineer;Tech+Innovator+From+Pakistan+🌍" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,7 +17,7 @@
 <p align="center">
 I’m a passionate <b>MERN & Python Developer</b>, <b>AI & Cloud Enthusiast</b>, and <b>Cybersecurity Explorer</b> 🔐  
 I love building smart, secure, and scalable applications that blend creativity with innovation.  
-Currently exploring <b>Azure</b>, <b>Prompt Engineering</b>, and <b>LLM-based systems</b> to create intelligent web solutions.  
+Currently exploring <b>Prompt Engineering</b>, and <b>LLM-based systems</b> to create intelligent web solutions.  
 </p>
 
 <!-- 🌈 Animated Divider -->
