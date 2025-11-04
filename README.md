@@ -88,15 +88,14 @@
 <!-- 🌈 Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📊 GitHub Stats
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amna104&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="180em"/>
   <img src="https://streak-stats.demolab.com?user=Amna104&theme=nightowl&hide_border=false" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amna104&theme=nightowl&hide_border=false&layout=compact" height="180em"/>
-</p>
+</p> -->
 
 <!-- 🌈 Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 ### 🏆 GitHub Trophies
 <p align="center">
