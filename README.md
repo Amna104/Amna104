@@ -4,7 +4,7 @@
 
 <!-- ✨ Animated Roles Section -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=MERN+%26+Python+Developer;AI+Prompt+Engineer;Cybersecurity+Enthusiast;Full+Stack+Engineer;Tech+Innovator+From+Pakistan+🌍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst;SOC+Learner+on+TryHackMe;AI+Prompt+Engineer;Python+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,12 +15,13 @@
 ### 🌟 About Me
 
 <p align="center">
+I am a Cybersecurity Analyst specializing in threat detection, incident response, and security operations. I combine hands-on TryHackMe labs, penetration testing (basics), and security simulations with full-stack development experience to deliver a unique perspective on application security and defensive operations.  
 
-• I’m Amna Arshad — a MERN & Python Developer and AI Prompt Engineer passionate about full-stack development, artificial intelligence, and cybersecurity 🔐  
-• I hold a BS in Computer Science from the University of the Punjab, where I graduated as the topper of my class 🎓  
-• I’ve gained hands-on experience at 10Pearls and EarTech IT, building scalable web applications and AI-driven tools ☁️🤖  
-• Certified by Google, AWS, and the Dubai Future Foundation, with expertise in AI, automation, and emerging technologies 🧠  
-• I’m driven by innovation, problem-solving, and the desire to create secure, accessible, and impactful digital solutions that make a real difference 🚀  
+**Core strengths:** SIEM & log analysis • Python security automation • Secure coding practices • Threat hunting • Incident response  
+
+My MERN development background gives me an edge—I understand how applications are built, which makes me better at defending them. I also leverage **AI/ML knowledge** to enhance threat detection and automate security workflows.  
+
+Actively seeking **SOC Analyst** and **security operations roles**. 🔒
 
 </p>
 
@@ -30,6 +31,11 @@
 
 ### 💻 Tech Stack
 <p align="center">
+
+<!-- 🛡️ Cybersecurity -->
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-4B275F?style=for-the-badge&logo=nmap&logoColor=white"/>
 
 <!-- 🌐 Frontend -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -41,20 +47,10 @@
 <img src="https://img.shields.io/badge/TailwindCSS-14b8a6?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 <!-- ⚙️ Backend -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/Node.js-0f766e?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=14b8a6"/>
 <img src="https://img.shields.io/badge/FastAPI-0f766e?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-
-<!-- 🧠 AI / ML -->
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<!-- 🛡️ Cybersecurity -->
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-4B275F?style=for-the-badge&logo=nmap&logoColor=white"/>
 
 <!-- 🗄️ Database -->
 <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -99,8 +95,9 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amna104&theme=onedark&no-frame=false&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Amna104&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
 </p>
+
 
 <!-- 🌈 Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -117,11 +114,6 @@
 <!-- 🌈 Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
 <!-- 🌈 Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -135,6 +127,9 @@
   </a>
   <a href="https://github.com/Amna104">
     <img src="https://img.shields.io/badge/GitHub-2dd4bf?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/amna.arshad">
+    <img src="https://img.shields.io/badge/TryHackMe-14b8a6?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
 </p>
 
