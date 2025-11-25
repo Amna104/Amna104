@@ -114,9 +114,6 @@ Actively seeking **SOC Analyst** and **security operations roles**. 🔒
 <!-- 🌈 Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- 🌈 Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="mailto:amnaarshad019@gmail.com">
@@ -132,9 +129,6 @@ Actively seeking **SOC Analyst** and **security operations roles**. 🔒
     <img src="https://img.shields.io/badge/TryHackMe-14b8a6?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
 </p>
-
-<!-- 🌈 Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile!%20💚&fontSize=22&fontColor=ffffff&fontAlignY=60"/>
